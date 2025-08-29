@@ -18,7 +18,7 @@ A **Sentiment Analysis** project to classify text as **positive**, **negative**,
 ## **Usage**
 1. **Clone the repository:**  
    ```bash
-   git clone <repo-url>
+   git clone <[repo-url](https://github.com/Devakipvn/Sentimental-analysis-internship-project)>
 
 2. **Install dependencies:**
       ```bash
