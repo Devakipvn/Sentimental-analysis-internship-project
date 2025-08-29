@@ -20,13 +20,11 @@ A **Sentiment Analysis** project to classify text as **positive**, **negative**,
    ```bash
    git clone <[repo-url](https://github.com/Devakipvn/Sentimental-analysis-internship-project)>
 
-2. **Install dependencies:**
-      ```bash
-  pip install -r requirements.txt
-
-3. **Run the notebook:**
+2. **Run the notebook:**
     ```bash
    jupyter notebook sentiment-analysis.ipynb
+
+3. Run the cells to analyze sentiments.
 
 **Author**
 
